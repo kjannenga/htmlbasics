@@ -1,0 +1,76 @@
+header {
+	color:#333;
+	background-color: #e9f6fb;
+	font-family:Courier;
+	text-align:center;
+
+}
+nav {
+	text-align:center;
+	font-family: courier;
+	font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    color:skyblue;
+}
+
+li{
+	float:left;
+}
+
+
+
+li a {
+    display: block;
+    color: seashell;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: seashell;
+}
+
+body{
+	color:black;
+	text-align:center;
+	font-family:courier;
+	
+}
+
+#about{
+	background-color:#bee5f4;
+	text-align:center;
+
+}
+
+#facebook-img{
+	border: solid;
+	border-width:20px;
+	border-color:white;
+
+}
+
+#projects{
+	background-color:#92d3ed;
+	text-align:center;
+
+}
+#future{
+	background-color:#7ccae9;
+	text-align:center;
+}
+#contact{
+	background-color:#51b8e1;
+	text-align:right;
+
+}
+
+#none{
+	color:red;
+}
